@@ -1,5 +1,7 @@
 # XVault
 
+![XVault Logo](xvault_logo.png)
+
 **XVault** is a collection of X (Twitter) archiving tools designed to capture and preserve tweets as screenshots. Whether you're documenting real-time events, like the 2025 Turkey protests following Istanbul Mayor Ekrem Imamoglu’s arrest, or building a personal archive, XVault offers flexible options to save tweet visuals—text, images, and layout intact—for future reference.
 
 ## Purpose
